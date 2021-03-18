@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     s = SingleLinkedList()
 
-    s.append(3)
+    s.append(1)
     s.delete()
     s.delete()
 
