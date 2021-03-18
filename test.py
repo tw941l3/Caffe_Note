@@ -44,11 +44,8 @@ if __name__ == "__main__":
     start = datetime.now()
 
     s = SingleLinkedList()
-<<<<<<< HEAD
+
     s.append(3)
-=======
-    s.append(2)
->>>>>>> a333402c08645d3960c75538ed295aaecd8069ab
     s.delete()
     s.delete()
 
